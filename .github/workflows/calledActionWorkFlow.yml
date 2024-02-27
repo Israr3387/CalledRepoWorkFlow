@@ -1,4 +1,4 @@
-name: run caller action
+name: run called action
 on:
   repository_dispatch:
      types: [my-event]
